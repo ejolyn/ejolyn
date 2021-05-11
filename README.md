@@ -10,7 +10,7 @@ Now learning C++
 Instruments i have worked with:
 - Docker
 - Kubernetes
-- Hibernate
+- Postgresql + Hibernate
 - Gradle
 - RestAssured
 - ASM (Intel syntax)
