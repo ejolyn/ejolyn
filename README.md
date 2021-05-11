@@ -6,4 +6,14 @@
 -->
 Now learning C++
 
+
+Instruments i have worked with:
+Docker
+Kubernetes
+Hibernate
+Gradle
+RestAssured
+ASM (Intel syntax)
+Java Collections
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejolyn&theme=tokyonight)
